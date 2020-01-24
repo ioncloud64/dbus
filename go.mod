@@ -1,3 +1,3 @@
-module github.com/godbus/dbus/v5
+module github.com/ioncloud64/dbus
 
 go 1.12
